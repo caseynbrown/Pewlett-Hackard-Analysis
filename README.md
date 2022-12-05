@@ -7,9 +7,10 @@ The purpose of this analysis was to create deliverables for Bobby's manager to p
 The first task we completed was creating a table called retirement_titles, shown below: 
 
 ![image](https://user-images.githubusercontent.com/115745142/205764380-d7bfe3f2-a16e-4afb-95ec-8bac785d4db4.png)
- However, this is not entirely useful indepedently as it includes many duplicates if associates have held different positions over the years. 
  
- We then created a table called unique_titles, shown below: 
+However, this is not entirely useful indepedently as it includes many duplicates if associates have held different positions over the years. 
+ 
+We then created a table called unique_titles, shown below: 
  
  ![image](https://user-images.githubusercontent.com/115745142/205764582-ccfa1a2b-77b3-44c7-bb4c-3be39b3f88f7.png)
 
